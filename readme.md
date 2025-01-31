@@ -27,8 +27,27 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **JavaScript**: Interatividade e lógica de funcionamento do site.
 - **Google Fonts**: Fontes customizadas para melhorar a legibilidade e o design.
 - **Ícones Personalizados**: Uso de ícones para ilustrar os processos e funcionalidades do sistema.
+- **Vercel**: Hospedagem.
 
 ## Como Usar 🚀
 
-Para visualizar o projeto, siga as instruções abaixo:
+Você pode visualizar o projeto diretamente online no seguinte link:
+
+[Lhamma Bath](https://lhamma-bath.vercel.app/)
+
+## Contribuindo 🤝
+
+Se você deseja contribuir para este projeto, siga os passos abaixo:
+
+1. Fork o repositório.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Realize as alterações desejadas.
+4. Commit suas mudanças (`git commit -am 'Adicionando nova funcionalidade'`).
+5. Envie para o repositório original (`git push origin feature/nova-funcionalidade`).
+6. Crie um Pull Request.
+
+
+### Feito com ❤️ por Amanda Krumenauer
+
+Se tiver dúvidas, sinta-se à vontade para abrir uma *issue* ou enviar um e-mail para krumenaueramy5@gmail.com.
 
